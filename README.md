@@ -21,9 +21,7 @@ php artisan storage:link
 
 ### Run server 
 
-{ 
-    php artisan serve 
-}
+    { php artisan serve }
 
 
 <p>go to /dashboard/login</p>
