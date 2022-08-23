@@ -1,7 +1,7 @@
 
 ### copy .env.example content into .env file 
 
-cp .env.example .env
+cp .env.example .env \n
 set database name in .env file 
 
 ### install packges 
