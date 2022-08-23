@@ -24,7 +24,7 @@ class DatabaseSeeder extends Seeder
         //     'email' => 'test@example.com',
         // ]);
 
-        User::create(['name' => 'SuperAdmin', 'password' => bcrypt('s')]);
+        User::create(['name' => 'SuperAdmin', 'password' => bcrypt('123456')]);
 
         // Theme::factory(50)->create();
     }
