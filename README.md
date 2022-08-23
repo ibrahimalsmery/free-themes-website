@@ -24,10 +24,10 @@ php artisan storage:link
 php artisan serve
 
 
-go to /dashboard/login
+<p>go to /dashboard/login</p>
 
-username: superadmin
-password: 123456
+<p>username: superadmin</p>
+<p>password: 123456</p>
 
 
 
