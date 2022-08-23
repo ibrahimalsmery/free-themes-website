@@ -24,6 +24,12 @@ php artisan storage:link
 php artisan serve
 
 
+go to /dashboard/login
+
+username: superadmin
+password: 123456
+
+
 
 
 
